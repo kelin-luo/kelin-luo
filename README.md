@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelin @kelin-luo, a researcher in TU Eindhoven.
+- 👋 Hi, I’m Kelin @kelin-luo, a researcher at the University of Bonn.
 - 👀 I’m interested in theoretical computer science and operation research.
 
 <!---
