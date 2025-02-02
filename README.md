@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelin @kelin-luo, a researcher at the University of Bonn.
+- 👋 Hi, I’m Kelin @kelin-luo, a researcher at the State University of New York at Buffalo.
 - 👀 I’m interested in theoretical computer science and operation research.
 
 <!---
